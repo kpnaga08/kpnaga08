@@ -3,6 +3,7 @@
 
 - 🎓 I have a PhD in Applied Mathematics.
 - 🎮 My latest interests revolve around clustering, unsupervised machine learning, pattern recognition and deep learning.
+- I am looking for a new position (postdoc on developing and analyzing machine learning algorithms)
 
 
 ---
