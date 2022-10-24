@@ -2,7 +2,7 @@
 
 
 - 🎓 I have a PhD in Applied Mathematics.
-- 🎮 I love everything about statistics, data analysis, designing and executing solid research that addresses important scientific questions, and lifelong learning. I started liking programming when I was pursuing my PhD. It was during this period that I realized that I found the most intrigue in analyzing data and clustering algorithms. My latest interests revolve around clustering, unsupervised machine learning, pattern recognition and deep learning.
+- 🎮 I love everything about mathematics, statistics, data analysis, designing and executing solid research that addresses important scientific questions, and lifelong learning. I started liking programming when I was pursuing my PhD. It was during this period that I realized that I found the most intrigue in analyzing data and clustering algorithms. My latest interests revolve around clustering, unsupervised machine learning, pattern recognition and deep learning.
 - Anyway, I am looking for a new position that is challenging, exciting and expanding. 
 
 
