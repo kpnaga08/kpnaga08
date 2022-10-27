@@ -17,3 +17,8 @@ If you are interested in more details, check out [my website](https://kpnaga08.g
 
 
 
+
+
+**My favorite quotes: "Nothing is impossible in this world. Firm determination, it is said, can move heaven and earth."**
+
+
