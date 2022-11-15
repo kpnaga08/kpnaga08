@@ -12,7 +12,7 @@
 Name | Completed |  URL | Organizations
 --- | --- | --- | --- | 
 *Machine Learning Specialization* | `OCT 26, 2022` | [Certificate](https://coursera.org/share/5bdbda3f14262b22782bb153174f8660) | Coursera
-*DeepLearning.AI TensorFlow Developer Specialization* | `NOV 15, 2022` | [Certificate](https://coursera.org/share/b9925d646cd202d41c5fb14df2b96a8d) | Coursera
+*DeepLearning.AI TensorFlow Developer Specialization* | `NOV 16, 2022` | [Certificate](https://coursera.org/share/b9925d646cd202d41c5fb14df2b96a8d) | Coursera
 
 
 ---
