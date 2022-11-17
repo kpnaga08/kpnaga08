@@ -19,7 +19,7 @@ Name | Completed |  URL | Organizations
 
 ---
 
-If you are interested in more details, check out [my website](https://kpnaga08.github.io)!  
+If you are interested in more details, check out [my website](https://kpnaga08.github.io) or [my LinkedIn](https://www.linkedin.com/in/kristina-p-sinaga-007925245/)!  
 
 ### Links
 
