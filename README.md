@@ -3,7 +3,7 @@
 
 
 - 🎓 PhD in Applied Mathematics from [Chung Yuan Christian University](https://www.cycu.edu.tw/eng/).
-- 🎮 I am a lifelong learner. I started liking programming when I was pursuing my PhD. It was during this period that I realized that I found the most intrigue in analyzing data and clustering algorithms. My latest interests revolve around multi-view learning, machine learning, pattern recognition and deep learning.
+- 🎮 I am a lifelong learner and driven by community. I started liking programming when I was pursuing my PhD. It was during this period that I realized that I found the most intrigue in analyzing data and clustering algorithms. My latest interests revolve around multi-view learning, machine learning, pattern recognition and deep learning.
 - Anyway, I am looking for a new position that is challenging, exciting and expanding. 
 
 **Strong Languages:** Matlab **Currently learning:** Python/TensorFlow
