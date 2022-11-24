@@ -30,7 +30,7 @@ Name | Completed |  URL | Organizations
 
 - Yang, M. S., **Sinaga, K. P.** (2019).  A feature-reduction multi-view k-means clustering algorithm. *IEEE Access*, *7*, pp: 114472-114486.
 
-- **Sinaga, K. P.**, Hsieh, J. N., Benjamin, J., Yang, M. S. (2019).  Modified relational mountain clustering method. *In International Conference on Artificial Intelligence and Soft Computing*, pp: 690-701.
+- **Sinaga, K. P.**, Hsieh, J. N., Benjamin, J., Yang, M. S. (2018).  Modified relational mountain clustering method. *In International Conference on Artificial Intelligence and Soft Computing*, pp: 690-701.
 
 - **[Ongoing Research]** Hussain, I., **Sinaga, K. P.**, Yang, M. S. Unsupervised multi-view fuzzy c-means.
 
