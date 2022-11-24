@@ -42,7 +42,7 @@ Name | Completed |  URL | Organizations
 
 
 
-If you are interested in more details, check out [my website](https://kpnaga08.github.io)!  
+If you are interested in more details, check out [**my website**](https://kpnaga08.github.io) or my <a href="Kristina_P_Sinaga_CV.pdf" class="btn-theme btn-theme-md btn-default-bg text-uppercase">**CV**</a><br>!  
 
 ### Links
 
