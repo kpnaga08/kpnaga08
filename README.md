@@ -11,7 +11,7 @@
 - 🎓 PhD in Applied Mathematics from [Chung Yuan Christian University](https://www.cycu.edu.tw/eng/)
 - 📖 Dissertation: Multi-view fuzzy clustering algorithms for multi-view data (In Chinese: 多視圖數據模糊聚類演算法); Advised by [Prof. Miin-Shen Yang](https://scholar.google.com/citations?user=DTrFkOYAAAAJ&hl=zh-TW).
 - 🎮 I am a lifelong learner and driven by community. 
-- 💡 I am extremely interested in developing the mathematics behind clustering and pattern recognition for single and multi-view learning. In particular, I am interested in machine learning and deep learning research with potential real-world applications.. 
+- 💡 I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages deep learning models to achieve improved accuracy and scalability.
 - Anyway, I am looking for a new position that is challenging, exciting and expanding. 
 
 **Strong Languages:** Matlab **Currently learning:** Python/TensorFlow
