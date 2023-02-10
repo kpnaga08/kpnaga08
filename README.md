@@ -8,7 +8,7 @@
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=she/her&color=red&style=flat-square)
 
-- 🎓 PhD in Applied Mathematics from [Chung Yuan Christian University](https://www.cycu.edu.tw/eng/)
+- I received my PhD in Applied Mathematics in June 2020 and have since worked as a lecturer at a private university in Indonesia. I am actively seeking for a postdoctoral opportunity. Please reach out to me if you have any available postdoc positions that aligns closely with my own research interests and experience. I am eager to apply my skills to solve some really complex problems.
 - 📖 Dissertation: Multi-view fuzzy clustering algorithms for multi-view data (In Chinese: 多視圖數據模糊聚類演算法); Advised by [Prof. Miin-Shen Yang](https://scholar.google.com/citations?user=DTrFkOYAAAAJ&hl=zh-TW).
 - 🎮 I am a lifelong learner and driven by community. 
 - 💡 I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages deep learning models to achieve improved accuracy and scalability.
