@@ -39,11 +39,11 @@ Name | Completed |  URL | Organizations
 
 - **Sinaga, K. P.**, Hsieh, J. N., Benjamin, J., Yang, M. S. (2018).  Modified relational mountain clustering method. *In International Conference on Artificial Intelligence and Soft Computing*, pp: 690-701.
 
-- **[Ongoing Research]** Hussain, I., **Sinaga, K. P.**, Yang, M. S. Unsupervised multi-view fuzzy c-means.
+- **[Manuscript submitted]** Hussain, I., **Sinaga, K. P.**, Yang, M. S. Unsupervised multi-view fuzzy c-means.
+
+- **[On Progress]** Sinaga, K. P. Multi-view learning disagreement-based entropy-gaussian-kernel.
 
 - **[Ongoing Research]** Sinaga, K. P. A comprehensive validity index for multi-view machine learning. 
-
-- **[Ongoing Research]** Sinaga, K. P. Multi-view learning disagreement-based entropy-gaussian-kernel.
 
 - **[Ongoing Research]** Sinaga, K. P. Regularized multi-label view reduction without supervision.
 
