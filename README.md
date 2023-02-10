@@ -12,9 +12,8 @@
 - 📖 Dissertation: Multi-view fuzzy clustering algorithms for multi-view data (In Chinese: 多視圖數據模糊聚類演算法); Advised by [Prof. Miin-Shen Yang](https://scholar.google.com/citations?user=DTrFkOYAAAAJ&hl=zh-TW).
 - 🎮 I am a lifelong learner and driven by community. 
 - 💡 I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages deep learning models to achieve improved accuracy and scalability.
-- Anyway, I am looking for a new position that is challenging, exciting and expanding. 
 
-**Strong Languages:** Matlab **Currently learning:** Python/TensorFlow
+**Strong Languages:** Matlab, R and Python/TensorFlow
 
 # Certifications
 
